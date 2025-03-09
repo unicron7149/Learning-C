@@ -1,3 +1,3 @@
 ## Learning C
 
-arrive to lesson 6.
+arrive to lesson 10.
